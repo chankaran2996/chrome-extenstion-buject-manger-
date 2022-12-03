@@ -18,7 +18,6 @@ $(function(){
           
             var notifOptions = {
                 type: "basic",
-                iconUrl: "icon48.png",
                 title: "Resetting Total",
                 message: "Total has been reset to 0."
             };
